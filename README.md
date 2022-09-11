@@ -1,2 +1,2 @@
 # GroceryStoreManagementSystem
-This is a Grocery Store Management system website. this website stores, delete and update orders in database.
+This is a Grocery Store Management system project. this project stores, delete and update orders in database.
